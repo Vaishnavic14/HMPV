@@ -112,15 +112,9 @@
             <div class="col-md-12 impact">
                 <h2>Impact</h2>
                 <p>1.Human metapneumovirus (hMPV) is a respiratory virus that typically causes mild, cold-like symptoms such as cough, fever, nasal congestion, and wheezing. However, in certain individuals, particularly young children, older adults, and those with weakened immune systems, it can lead to more severe respiratory illnesses like bronchitis or pneumonia. <br>
-                  
-                    
-                2.In temperate regions, hMPV primarily spreads during late winter and spring, coinciding with other respiratory viruses like influenza and RSV. Transmission occurs through respiratory droplets from coughing or sneezing, close personal contact, or touching contaminated surfaces and then touching the face. <br>
-                    
-                    
-                3.Preventive measures include wearing masks in crowded or poorly ventilated spaces, improving indoor ventilation, regular hand hygiene, and avoiding touching the face with unwashed hands. Currently, there is no specific vaccine or antiviral treatment for hMPV; management focuses on supportive care to relieve symptoms. <br>
-                  
-                    
-                4.While hMPV is a common cause of respiratory infections, it generally results in mild illness. However, it can cause more severe disease in infants, older adults, and immunocompromised individuals. Monitoring and preventive measures are essential to protect these vulnerable populations. 
+                  2.In temperate regions, hMPV primarily spreads during late winter and spring, coinciding with other respiratory viruses like influenza and RSV. Transmission occurs through respiratory droplets from coughing or sneezing, close personal contact, or touching contaminated surfaces and then touching the face. <br>
+                    3.Preventive measures include wearing masks in crowded or poorly ventilated spaces, improving indoor ventilation, regular hand hygiene, and avoiding touching the face with unwashed hands. Currently, there is no specific vaccine or antiviral treatment for hMPV; management focuses on supportive care to relieve symptoms. <br>
+                    4.While hMPV is a common cause of respiratory infections, it generally results in mild illness. However, it can cause more severe disease in infants, older adults, and immunocompromised individuals. Monitoring and preventive measures are essential to protect these vulnerable populations. 
                     </p>
               </div>
         </div>
