@@ -200,7 +200,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="row g-6">
-                    <h1 class="fw-bold text-primary mb-4">Nu<span class="text-secondary">tr</span>e<span class="text-secondary">X </h1>
+                    <h1 class="fw-bold text-primary mb-4">Nu<span class="text-secondary">tr</span>e<span class="text-secondary">X 
                     <p> Human metapneumovirus (HMPV) is a common virus that usually causes symptoms similar to a cold. If you’re older than 5, you’ve probably already had it at least once. Most of the time, you’ll get better at home in a few days. But sometimes HMPV can cause serious complications. Young children, adults over 65 and people with weakened immune systems are at a higher risk for severe illness. Talk to your healthcare provider if you have any concerns about HMPV.</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
@@ -226,8 +226,6 @@
                     <h4 class="text-light mb-4">Newsletter</h4>
                     <p>For more updates just Connect with us via sending message or sign up with your email. We will always there for yourself.</p>
                 </div>
-            </div>
-        </div>
         <div class="container-fluid copyright">
             <div class="container">
                 <div class="row">
@@ -237,8 +235,6 @@
                   </div>
             </div>
         </div>
- </body>
-</html>
 
          
       
