@@ -194,47 +194,5 @@
 सर्वेक्षण आणि डेटा: डेटा संकलन साधनांसह एकत्रित केल्यास, वेबसाइट वापरकर्त्यांकडून HMPV च्या प्रसार, लक्षणे आणि पुनर्प्राप्ती वेळेबद्दल मौल्यवान डेटा गोळा करू शकते, ज्यामुळे सार्वजनिक आरोग्य धोरणांची माहिती देण्यात मदत होते. </p>
          </div>
             </div>
+            </body>
             
-    <!-- Footer Start -->
- <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="row g-6">
-                    <h1 class="fw-bold text-primary mb-4">Nu<span class="text-secondary">tr</span>e<span class="text-secondary">X 
-                    <p> Human metapneumovirus (HMPV) is a common virus that usually causes symptoms similar to a cold. If you’re older than 5, you’ve probably already had it at least once. Most of the time, you’ll get better at home in a few days. But sometimes HMPV can cause serious complications. Young children, adults over 65 and people with weakened immune systems are at a higher risk for severe illness. Talk to your healthcare provider if you have any concerns about HMPV.</p>
-                    <div class="d-flex pt-2">
-                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-square btn-outline-light rounded-circle me-0" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="row g-6">
-                    <h4 class="text-light mb-4">Address</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>24 Street,Vector Road,USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+086-324-8954</p>
-                    <p><i class="fa fa-envelope me-3"></i>NutreX123@gmail.com</p>
-                </div>
-                <div class="row g-6">
-                    <h4 class="text-light mb-4">Quick Links</h4>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
-                </div>
-                <div class="row g-6">
-                    <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>For more updates just Connect with us via sending message or sign up with your email. We will always there for yourself.</p>
-                </div>
-        <div class="container-fluid copyright">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">NutreX</a>, All Right Reserved.
-                    </div>
-                  </div>
-            </div>
-        </div>
-
-         
-      
