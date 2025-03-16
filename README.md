@@ -12,8 +12,7 @@
 </head> 
 
 <body>
-
-    <!-- Navbar Start -->
+ <!-- Navbar Start -->
     <div >
         <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
             <div class="col-lg-6 px-5 text-start">
@@ -28,8 +27,7 @@
                 </div>
              </div>
         </div><hr>
-
-        <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+<nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
             <a href="index1.html" class="navbar-brand ms-4 ms-lg-0">
                 <h1 class="fw-bold text-primary m-0">Nu<span class="text-secondary">tre</span>X</h1>
             </a>
@@ -53,9 +51,8 @@
                 
                 <a href="detector1.html" class="nav-item nav-link">Detector</a>
             
-                </div>
-           
-                <div class="d-none d-lg-flex ms-2">
+</div>
+           <div class="d-none d-lg-flex ms-2">
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-search text-body"></small>
                     </a>
@@ -69,7 +66,6 @@
             </div>
         </nav>
     </div>
-    
      <!-- Navbar End -->
     <div class="container">
         <div class="row">
@@ -127,7 +123,7 @@
                     
                 4.While hMPV is a common cause of respiratory infections, it generally results in mild illness. However, it can cause more severe disease in infants, older adults, and immunocompromised individuals. Monitoring and preventive measures are essential to protect these vulnerable populations. 
                     </p>
-            </div>
+</div>
         </div>
         <div class="row">
             <div class="col-md-12 about">
@@ -140,8 +136,7 @@
                 </p>
             </div>
         </div>
-
-        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Translate into Hindi</a>
+ <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Translate into Hindi</a>
         <div class="dropdown-info">
             <div class="container">
                 <div class="row">
@@ -151,7 +146,7 @@
                     </div>
                         </div>
 
-            <div class="row">
+   <div class="row">
                 <div class="col-md-12 Common features">
                 <h2>HMPV कसा शोधला गेला?</h2>
                     <ul>
@@ -161,7 +156,7 @@
 
                 </div>
                     </div>
-                    <div class="row">
+<div class="row">
                         <div class="col-md-12 gallery">
                             <h2>Gallery</h2>
                             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -188,7 +183,7 @@
                         </div>
                     </div>
 
-            <div class="row">
+<div class="row">
                 <div class="col-md-12 impact">
                     <h2>परिणाम</h2>
             <p>१.ह्युमन मेटाप्न्यूमोव्हायरस (hMPV) हा एक श्वसन विषाणू आहे जो सामान्यतः खोकला, ताप, नाक बंद होणे आणि घरघर यासारख्या सौम्य, सर्दीसारखी लक्षणे निर्माण करतो. तथापि, काही व्यक्तींमध्ये, विशेषतः लहान मुले, वृद्ध प्रौढ आणि कमकुवत रोगप्रतिकारक शक्ती असलेल्यांमध्ये, ते ब्राँकायटिस किंवा न्यूमोनियासारखे अधिक गंभीर श्वसन आजारांना कारणीभूत ठरू शकते. <br>
@@ -203,7 +198,7 @@
                 </div>
             
             
-            <div class="row">
+<div class="row">
                 <div class="col-md-12 about">
             <h2>आमच्याबद्दल</h2>
         <p>HMPV हा मानवतावादी मदत आणि मार्गदर्शन प्रदान करण्यासाठी समर्पित एका गैर-नफा संस्थेचा प्रकल्प आहे.
@@ -218,10 +213,8 @@
          </div>
             </div>
           
-
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
+ <!-- Footer Start -->
+ <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
@@ -265,16 +258,15 @@
         </div>
     </div>
     <!-- Footer End -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    
-</body>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    </body>
 </html>
 
 
 
    
-
+<style>
         body {
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         
@@ -435,55 +427,6 @@
             max-width: 600px;
             margin: 20px auto;
         }
-    
+    </style>
          
-        $(document).ready(function() {
-            $('#submit').click(function(e) {
-                e.preventDefault();
-                var age = parseInt($('#age').val());
-                var sex = $('#sex').val();
-                var smoking = $('#smoking').val();
-                var vaccinated = $('#vaccinated').val()
-                var riskLevel = 0;
-                if (age < 26 && sex === 'female' && smoking === 'no' && vaccinated === 'yes' && sexualPartners === '1') {
-                    riskLevel = 10;
-                } else if (age >= 26 && sex === 'male' && smoking === 'yes' && vaccinated === 'no' && sexualPartners === '6') {
-                    riskLevel = 80;
-                } else if (age >= 26 && sex === 'male' && smoking === 'yes' && vaccinated === 'no' && sexualPartners === '3') {
-                    riskLevel = 60;
-                } else if (age < 26 && sex === 'female' && smoking === 'no' && vaccinated === 'yes' && sexualPartners === '3') {
-                    riskLevel = 20;
-                } else {
-                    riskLevel = 40;
-                }
-                $('#result').text('Your risk level is: ' + riskLevel + '%');
-                const ctx = document.getElementById('myChart').getContext('2d');
-                const myChart = new Chart(ctx, {
-                    type: 'pie',
-                    data: {
-                        labels: ['Low Risk', 'High Risk'],
-                        datasets: [{
-                            label: 'Risk Level',
-                            data: [100 - riskLevel, riskLevel],
-                            backgroundColor: [
-                                'rgba(0, 255, 0, 0.2)',
-                                'rgba(255, 0, 0, 0.2)'
-                            ],
-                            borderColor: [
-                                'rgba(0, 255, 0, 1)',
-                                'rgba(255, 0, 0, 1)'
-                            ],
-                            borderWidth: 1
-                        }]
-                    },
-                    options: {
-                        scales: {
-                            y: {
-                                beginAtZero: true
-                            }
-                        }
-                    }
-                });
-            });
-        });
-  
+      
