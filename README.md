@@ -1397,7 +1397,7 @@
 </body>
 </html>
 
-# log.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -1468,7 +1468,6 @@
 </body>
 </html>
 
-# detector1.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
