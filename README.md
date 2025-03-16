@@ -1,4 +1,4 @@
-# index1.html
+# HMPV
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -272,7 +272,7 @@
 </body>
 </html>
 
-# about.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -440,7 +440,6 @@
 </body>
 </html>
 
-# symptoms.html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -610,7 +609,7 @@
 </body>
 </html>
 
-# precaution.html
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -781,7 +780,6 @@
 </body>
 </html> 
 
-# cause.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -950,7 +948,7 @@
 </body>
 </html>
 
-# contact.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1145,7 +1143,6 @@
 </html>
 
 
-# treatment.html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -1314,7 +1311,7 @@
 </body>
 </html>
 
-# ghg.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1712,7 +1709,7 @@
 </body>
 </html>
 
-# style.css
+
 
         body {
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -1875,7 +1872,6 @@
             margin: 20px auto;
         }
     
-# script.html
          
         $(document).ready(function() {
             $('#submit').click(function(e) {
