@@ -1314,6 +1314,163 @@
 </body>
 </html>
 
+# ghg.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Started</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 300px;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .google {
+            background-color: #db4437;
+        }
+        .email {
+            background-color: #4285f4;
+        }
+        
+        .mobile {
+            padding-left: 30px;
+            height: 40px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+            margin: 10px 0;
+        }
+        .or {
+            margin: 20px 0;
+            font-weight: bold;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Get Started</h2>
+        <button class="btn google"><i class="fab fa-google"></i> Continue with Google</button>
+        
+        <button class="btn email"><i class="fas fa-envelope"></i> Continue with Email</button>
+ 
+        <div class="or">OR</div>
+        <input class="mobile" type="text" placeholder="+91 Continue with mobile number">
+        <button>Submit</button>
+        <footer>
+            <label>
+                <input type="checkbox" required> I agree to the
+                <a href="#">Terms & Conditions</a> & 
+                <a href="#">Privacy Policy</a>
+            </label>
+        </footer>
+    </div>
+</body>
+</html>
+
+# log.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sign Un</title>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+  <br><br><br><br><br>
+  <style>
+    body {
+      font-family: sans-serif;
+    } 
+    .container {
+      width: 300px ;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      height: 400px;
+
+    
+    }
+    .button {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 10px;
+      text-align: center;
+      
+    }
+
+    .google-button {
+      background-color: #fff;
+      color: #333;
+      border: 1px solid #ccc;
+      border-radius: 7px;
+      padding: 10px 25px;
+      display: flex;
+      align-items: center;   
+    }
+    .google-button img {
+      margin-right: 70px;
+       }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Welcome back! Please sign in to continue!</h2>
+    <button class="google-button">
+      <img src="https://www.google.com/favicon.ico" alt="Google Logo">
+      
+      <a href="https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ">Continue with Google</a>
+    </button ><hr>
+    <p><center>Or</center></p>
+    <div>
+    <label for="email">Email Address: </label>
+    <input type="email" id="email" placeholder="Enter your email address">
+     </div>
+    <button> Continue </button>
+    <p>Don't have an account? <a href="https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ">Sign up</a></p>
+  </div>
+ 
+</body>
+</html>
+
 # detector1.html
 <!DOCTYPE html>
 <html lang="en">
@@ -1556,4 +1713,217 @@
 </html>
 
 # style.css
+
+        body {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+        }
+        .header {
+            background-image: linear-gradient(to bottom, #333, #0b0606e9);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .back-to-top {
+            position: fixed;
+            display: none;
+            right: 30px;
+            bottom: 30px;
+            z-index: 99;
+        } 
+        .my-6 {
+            margin-top: 6rem;
+            margin-bottom: 6rem;
+        }
+        
+        .py-6 {
+            padding-top: 6rem;
+            padding-bottom: 6rem;
+        }
+        
+        .bg-icon {
+            background: url(bg-icon.png) center center repeat;
+            background-size: contain;
+        }
+        
+        .features {
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+        .gallery {
+            padding: 20px;
+        }
+        .impact {
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+        .about {
+            padding: 20px;
+        }
+        .contact {
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+        .doctor-contact {
+            padding: 20px;
+        }
+        .prevention-symptoms {
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        .cures {
+            padding: 20px;
+        }
+        .cause {
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+        .nearby-hospitals {
+            padding: 20px;
+        }
+               /*** Navbar ***/
+
+.top-bar {
+    height: 45px;
+    border-bottom: 1px solid rgba(0, 0, 0, .07);
+}
+        .navbar .dropdown-toggle::after {
+            border: none;
+            content: "\f107";
+            font-family: "Font Awesome 5 Free";
+            font-weight: 900;
+            vertical-align: middle;
+            margin-left: 8px;
+        }
+        
+        .navbar .navbar-nav .nav-link {
+            padding: 25px 15px;
+            color: #555555;
+            font-weight: 500;
+            outline: none;
+        }
+        
+        .navbar .navbar-nav .nav-link:hover,
+        .navbar .navbar-nav .nav-link.active {
+            color: var(--dark);
+        }
+        
+        @media (max-width: 991.98px) {
+            .navbar .navbar-nav {
+                margin-top: 10px;
+                border-top: 1px solid rgba(0, 0, 0, .07);
+                background: #FFFFFF;
+            }
+        
+            .navbar .navbar-nav .nav-link {
+                padding: 10px 0;
+            }
+        }
+        
+        @media (min-width: 992px) {
+            .navbar .nav-item .dropdown-menu {
+                display: block;
+                visibility: hidden;
+                top: 100%;
+                transform: rotateX(-75deg);
+                transform-origin: 0% 0%;
+                transition: .5s;
+                opacity: 0;
+            }
+        
+            .navbar .nav-item:hover .dropdown-menu {
+                transform: rotateX(0deg);
+                visibility: visible;
+                transition: .5s;
+                opacity: 1;
+            }
+        }
+
+        
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            text-decoration: underline;
+        }
+        .quiz-container {
+            margin: 20px 0;
+        }
+        .question {
+            margin: 15px 0;
+        }
+        .btn {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color:blue;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            
+        }
+        .btn:hover {
+            background-color: rgb(130, 14, 24);
+        }
+        #chart-container {
+            width: 80%;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+    
 # script.html
+         
+        $(document).ready(function() {
+            $('#submit').click(function(e) {
+                e.preventDefault();
+                var age = parseInt($('#age').val());
+                var sex = $('#sex').val();
+                var smoking = $('#smoking').val();
+                var vaccinated = $('#vaccinated').val()
+                var riskLevel = 0;
+                if (age < 26 && sex === 'female' && smoking === 'no' && vaccinated === 'yes' && sexualPartners === '1') {
+                    riskLevel = 10;
+                } else if (age >= 26 && sex === 'male' && smoking === 'yes' && vaccinated === 'no' && sexualPartners === '6') {
+                    riskLevel = 80;
+                } else if (age >= 26 && sex === 'male' && smoking === 'yes' && vaccinated === 'no' && sexualPartners === '3') {
+                    riskLevel = 60;
+                } else if (age < 26 && sex === 'female' && smoking === 'no' && vaccinated === 'yes' && sexualPartners === '3') {
+                    riskLevel = 20;
+                } else {
+                    riskLevel = 40;
+                }
+                $('#result').text('Your risk level is: ' + riskLevel + '%');
+                const ctx = document.getElementById('myChart').getContext('2d');
+                const myChart = new Chart(ctx, {
+                    type: 'pie',
+                    data: {
+                        labels: ['Low Risk', 'High Risk'],
+                        datasets: [{
+                            label: 'Risk Level',
+                            data: [100 - riskLevel, riskLevel],
+                            backgroundColor: [
+                                'rgba(0, 255, 0, 0.2)',
+                                'rgba(255, 0, 0, 0.2)'
+                            ],
+                            borderColor: [
+                                'rgba(0, 255, 0, 1)',
+                                'rgba(255, 0, 0, 1)'
+                            ],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            });
+        });
+  
