@@ -1,2 +1,12 @@
-# index.html
-# detector.html
+# index1.html
+# about.html
+# precaution.html
+# ghg.html
+# cause.html
+# contact.html
+# log.html
+# symptoms.html
+# treatment.html
+# detector1.html
+# style.css
+# script.html
