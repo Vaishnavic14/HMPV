@@ -21,7 +21,7 @@
             </div>
             <div class="col-lg-6 px-5 text-end">
                
-                <div>
+ <div>
                     <a href="ghg.html" class="nav-item nav-link">Sign up</a>
                     
                 </div>
@@ -49,7 +49,7 @@
                     </div>
                     <a href="contact.html" class="nav-item nav-link">Contact Us</a>
                 
-                <a href="detector1.html" class="nav-item nav-link">Detector</a>
+ <a href="detector1.html" class="nav-item nav-link">Detector</a>
             
 </div>
            <div class="d-none d-lg-flex ms-2">
