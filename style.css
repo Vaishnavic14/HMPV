@@ -141,7 +141,7 @@
             margin: 15px 0;
         }
         .btn {
-            border-radius: 40px;
+            display: block;
             margin: 20px auto;
             padding: 10px 20px;
             background-color:blue;
