@@ -10,7 +10,7 @@
     
 </head> 
 
-<body>
+<body> 
  <!-- Navbar Start -->
     <div >
         <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
