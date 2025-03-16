@@ -22,8 +22,7 @@
                
  <div>
                     <a href="ghg.html" class="nav-item nav-link">Sign up</a>
-                    
- </div>
+     </div>
    </div>
  </div>
 <hr>
@@ -123,7 +122,7 @@
                     
                 4.While hMPV is a common cause of respiratory infections, it generally results in mild illness. However, it can cause more severe disease in infants, older adults, and immunocompromised individuals. Monitoring and preventive measures are essential to protect these vulnerable populations. 
                     </p>
-</div>
+              </div>
         </div>
         <div class="row">
             <div class="col-md-12 about">
@@ -131,9 +130,7 @@
                 <p>The HMPV is a project of a non-profit organization dedicated to providing humanitarian assistance and guidance.
                    Medical Information: It can be used to share up-to-date research on HMPV, diagnostic methods, and treatment options, contributing to the scientific community's understanding of the virus.
                    Updates on Clinical Trials and Findings: For researchers, having an online platform to keep up with new research and breakthroughs regarding HMPV is crucial.
-                   Surveys and Data: If integrated with data collection tools, the website could gather valuable data from users regarding the prevalence of HMPV, symptoms, and recovery times, helping to inform public health strategies.
-
-                </p>
+                   Surveys and Data: If integrated with data collection tools, the website could gather valuable data from users regarding the prevalence of HMPV, symptoms, and recovery times, helping to inform public health strategies.     </p>
             </div>
         </div>
  <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Translate into Hindi</a>
@@ -153,7 +150,6 @@
                     <li>संशोधकांनी साठवलेल्या नासोफॅरिंजियल नमुन्यांमध्ये HMPV ओळखण्यासाठी इलेक्ट्रॉन मायक्रोस्कोपी आणि रिव्हर्स ट्रान्सक्रिप्शन-पॉलिमरेज चेन रिएक्शन (RT-PCR) चा वापर केला.</li>
                     <li>हा विषाणू एव्हियन मेटाप्न्यूमोव्हायरस सेरोटाइप सी शी सर्वात जवळून संबंधित असल्याचे आढळून आले.</li>
                     </ul>
-
                 </div>
                     </div>
 <div class="row">
@@ -192,12 +188,9 @@
 
 ३.प्रतिबंधात्मक उपायांमध्ये गर्दीच्या किंवा कमी हवेशीर जागांमध्ये मास्क घालणे, घरातील वायुवीजन सुधारणे, नियमित हातांची स्वच्छता आणि न धुतलेल्या हातांनी चेहरा स्पर्श करणे टाळणे यांचा समावेश आहे. सध्या, hMPV साठी कोणतीही विशिष्ट लस किंवा अँटीव्हायरल उपचार नाही; व्यवस्थापन लक्षणे दूर करण्यासाठी सहाय्यक काळजीवर लक्ष केंद्रित करते. <br>
 
-४. एचएमपीव्ही हे श्वसन संसर्गाचे एक सामान्य कारण असले तरी, त्यामुळे सामान्यतः सौम्य आजार होतात. तथापि, यामुळे लहान मुले, वृद्ध आणि रोगप्रतिकारक शक्ती कमकुवत असलेल्या व्यक्तींमध्ये अधिक गंभीर आजार होऊ शकतात. या असुरक्षित लोकसंख्येचे संरक्षण करण्यासाठी देखरेख आणि प्रतिबंधात्मक उपाय आवश्यक आहेत.
-            </p>
+४. एचएमपीव्ही हे श्वसन संसर्गाचे एक सामान्य कारण असले तरी, त्यामुळे सामान्यतः सौम्य आजार होतात. तथापि, यामुळे लहान मुले, वृद्ध आणि रोगप्रतिकारक शक्ती कमकुवत असलेल्या व्यक्तींमध्ये अधिक गंभीर आजार होऊ शकतात. या असुरक्षित लोकसंख्येचे संरक्षण करण्यासाठी देखरेख आणि प्रतिबंधात्मक उपाय आवश्यक आहेत. </p>
               </div>
                 </div>
-            
-            
 <div class="row">
                 <div class="col-md-12 about">
             <h2>आमच्याबद्दल</h2>
@@ -207,13 +200,10 @@
 
 क्लिनिकल चाचण्या आणि निष्कर्षांवरील अद्यतने: संशोधकांसाठी, HMPV संबंधी नवीन संशोधन आणि प्रगती जाणून घेण्यासाठी ऑनलाइन प्लॅटफॉर्म असणे अत्यंत महत्त्वाचे आहे.
 
-सर्वेक्षण आणि डेटा: डेटा संकलन साधनांसह एकत्रित केल्यास, वेबसाइट वापरकर्त्यांकडून HMPV च्या प्रसार, लक्षणे आणि पुनर्प्राप्ती वेळेबद्दल मौल्यवान डेटा गोळा करू शकते, ज्यामुळे सार्वजनिक आरोग्य धोरणांची माहिती देण्यात मदत होते.
-
-         </p>
+सर्वेक्षण आणि डेटा: डेटा संकलन साधनांसह एकत्रित केल्यास, वेबसाइट वापरकर्त्यांकडून HMPV च्या प्रसार, लक्षणे आणि पुनर्प्राप्ती वेळेबद्दल मौल्यवान डेटा गोळा करू शकते, ज्यामुळे सार्वजनिक आरोग्य धोरणांची माहिती देण्यात मदत होते. </p>
          </div>
             </div>
-          
- <!-- Footer Start -->
+           <!-- Footer Start -->
  <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
@@ -252,181 +242,12 @@
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                         &copy; <a href="#">NutreX</a>, All Right Reserved.
                     </div>
-                   
-                </div>
+                  </div>
             </div>
         </div>
     </div>
-    <!-- Footer End -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    </body>
+  </body>
 </html>
 
-
-
-   
-<style>
-        body {
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        
-        }
-        .header {
-            background-image: linear-gradient(to bottom, #333, #0b0606e9);
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-
-        .back-to-top {
-            position: fixed;
-            display: none;
-            right: 30px;
-            bottom: 30px;
-            z-index: 99;
-        } 
-        .my-6 {
-            margin-top: 6rem;
-            margin-bottom: 6rem;
-        }
-        
-        .py-6 {
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-        }
-        
-        .bg-icon {
-            background: url(bg-icon.png) center center repeat;
-            background-size: contain;
-        }
-        
-        .features {
-            background-color: #f7f7f7;
-            padding: 20px;
-        }
-        .gallery {
-            padding: 20px;
-        }
-        .impact {
-            background-color: #f7f7f7;
-            padding: 20px;
-        }
-        .about {
-            padding: 20px;
-        }
-        .contact {
-            background-color: #f7f7f7;
-            padding: 20px;
-        }
-        .doctor-contact {
-            padding: 20px;
-        }
-        .prevention-symptoms {
-            padding: 20px;
-            background-color: #f7f7f7;
-        }
-        .cures {
-            padding: 20px;
-        }
-        .cause {
-            padding: 20px;
-            background-color: #f7f7f7;
-        }
-        .nearby-hospitals {
-            padding: 20px;
-        }
-               /*** Navbar ***/
-
-.top-bar {
-    height: 45px;
-    border-bottom: 1px solid rgba(0, 0, 0, .07);
-}
-        .navbar .dropdown-toggle::after {
-            border: none;
-            content: "\f107";
-            font-family: "Font Awesome 5 Free";
-            font-weight: 900;
-            vertical-align: middle;
-            margin-left: 8px;
-        }
-        
-        .navbar .navbar-nav .nav-link {
-            padding: 25px 15px;
-            color: #555555;
-            font-weight: 500;
-            outline: none;
-        }
-        
-        .navbar .navbar-nav .nav-link:hover,
-        .navbar .navbar-nav .nav-link.active {
-            color: var(--dark);
-        }
-        
-        @media (max-width: 991.98px) {
-            .navbar .navbar-nav {
-                margin-top: 10px;
-                border-top: 1px solid rgba(0, 0, 0, .07);
-                background: #FFFFFF;
-            }
-        
-            .navbar .navbar-nav .nav-link {
-                padding: 10px 0;
-            }
-        }
-        
-        @media (min-width: 992px) {
-            .navbar .nav-item .dropdown-menu {
-                display: block;
-                visibility: hidden;
-                top: 100%;
-                transform: rotateX(-75deg);
-                transform-origin: 0% 0%;
-                transition: .5s;
-                opacity: 0;
-            }
-        
-            .navbar .nav-item:hover .dropdown-menu {
-                transform: rotateX(0deg);
-                visibility: visible;
-                transition: .5s;
-                opacity: 1;
-            }
-        }
-
-        
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            text-align: center;
-            text-decoration: underline;
-        }
-        .quiz-container {
-            margin: 20px 0;
-        }
-        .question {
-            margin: 15px 0;
-        }
-        .btn {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color:blue;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            
-        }
-        .btn:hover {
-            background-color: rgb(130, 14, 24);
-        }
-        #chart-container {
-            width: 80%;
-            max-width: 600px;
-            margin: 20px auto;
-        }
-    </style>
          
       
