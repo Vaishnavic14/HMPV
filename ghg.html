@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Started</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 300px;
+        }
+        h2 {
+            margin-bottom: 20px;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .google {
+            background-color: #db4437;
+        }
+        .email {
+            background-color: #4285f4;
+        }
+        .apple {
+            background-color: #000;
+        }
+        .mobile {
+            padding-left: 30px;
+            height: 40px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            width: 100%;
+            margin: 10px 0;
+        }
+        .or {
+            margin: 20px 0;
+            font-weight: bold;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Get Started</h2>
+        <button class="btn google"><i class="fab fa-google"></i> Continue with Google</button>
+        <button class="btn email"><i class="fas fa-envelope"></i> Continue with Email</button>
+        <button class="btn apple"><i class="fab fa-apple"></i> Continue with Apple</button>
+        <div class="or">OR</div>
+        <input class="mobile" type="text" placeholder="+91 Continue with mobile number">
+        <footer>
+            <label>
+                <input type="checkbox" required> I agree to the
+                <a href="#">Terms & Conditions</a> & 
+                <a href="#">Privacy Policy</a>
+            </label>
+        </footer>
+    </div>
+</body>
+</html>
